@@ -2,6 +2,12 @@
 
 A full-stack web application that allows users to track their expenses and visualize spending patterns using a pie chart.
 
+live link: https://varshithnomula.github.io/COSC-Budget-tracker/
+
+![image](https://github.com/user-attachments/assets/81586750-a2fd-4573-8566-95bcd22c539e)
+![image](https://github.com/user-attachments/assets/9f38c33e-2502-45be-8401-d122958e634e)
+
+
 ## Features
 
 - Add expenses with categories and amounts
@@ -35,8 +41,6 @@ A full-stack web application that allows users to track their expenses and visua
 - `index.html` - Main HTML structure
 - `styles.css` - CSS styling
 - `script.js` - JavaScript functionality
-
-## Future Enhancements
 
 - Add date field for each expense
 - Filter expenses by date range
